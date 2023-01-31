@@ -14,7 +14,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 - [About](https://github.com/LACLanthony/Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
         + [Project 1](https://github.com/LACLanthony/Portfolio/edit/main/README.md#project-1)
-<br>
+
 
 ## Portfolio Projects
 <br>
