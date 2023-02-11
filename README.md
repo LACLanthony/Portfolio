@@ -13,7 +13,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 
 - [About](https://github.com/LACLanthony/Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
-              + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/edit/main/README.md#project-1)
+  +[Hotel Webscrape](https://github.com/LACLanthony/Portfolio/edit/main/README.md#project-1)
 
 
 ## Portfolio Projects
@@ -21,5 +21,5 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 
 ### Hotel Webscrape
 **[code](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** 
-**Description:** In the preceding code hotels were scraped from the yellow pages website. The data was then cleaned and saved into a csv file.
-**skills:** web scraping, ETL, Beautiful Soup, Requests 
+**Description:** In the preceding code hotels were scraped from the yellow pages website. The data was then cleaned and saved into a csv file.<br>
+**Skills:** web scraping, ETL, Beautiful Soup, Requests 
