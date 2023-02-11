@@ -13,7 +13,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 
 - [About](https://github.com/LACLanthony/Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
-       + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/edit/main/README.md#project-1)
+              + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/edit/main/README.md#project-1)
 
 
 ## Portfolio Projects
