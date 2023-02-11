@@ -20,6 +20,6 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 <br>
 
 ### Hotel Webscrape
-**[code]**(https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)<br>
+**[code](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** <br>
 **Description:** In the preceding code hotels were scraped from the yellow pages website. The data was then cleaned and saved into a csv file.<br>
 **Skills:** web scraping, ETL, Beautiful Soup, Requests 
