@@ -26,5 +26,5 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 
 ### Mushroom Machine Learning
 **[code](https://github.com/LACLanthony/mushroom_machine_learning/blob/main/mushrooms.ipynb)** <br>
-**Description:** In the code above machine learning was used to categorize edible vs poisonous mushrooms. Naive Bayes was used first followed by logistic regression. Logistic Regression was found to be the better model. The insights gained from the logisitc regression model were used to find any new information.
+**Description:** In the code above machine learning was used to categorize edible vs poisonous mushrooms. Naive Bayes was used first followed by logistic regression. Logistic Regression was found to be the better model. The insights gained from the logisitc regression model were used to find any new information.<br>
 **Skills:** Machine Learning, Sci-kit Learn, Pandas, Numpy, Matplotlib, Logistic Regression, Naive Bayes
