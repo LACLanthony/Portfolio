@@ -30,3 +30,8 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 **[code](https://github.com/LACLanthony/mushroom_machine_learning/blob/main/mushrooms.ipynb)** <br>
 **Description:** In the code above machine learning was used to categorize edible vs poisonous mushrooms. Naive Bayes was used first followed by logistic regression. Logistic Regression was found to be the better model. The insights gained from the logisitc regression model were used to find any new information.<br>
 **Skills:** Machine Learning, Sci-kit Learn, Pandas, Numpy, Matplotlib, Logistic Regression, Naive Bayes
+
+### Stock Optimization Linear Programming 
+**[code](https://github.com/LACLanthony/Stocks_Linear_Programming)** <br>
+**Description:** In the code above Simulation and Optimization methods are used to find the optimal solution oh how to distribute funds in stocks. The constraints are given and taken into consideration when finding the optimal solution. <br>
+**Skills:** Python, PuLP, Linear Programming, LaTeX
