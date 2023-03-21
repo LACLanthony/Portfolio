@@ -34,7 +34,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 **Skills:** Machine Learning, Sci-kit Learn, Pandas, Numpy, Matplotlib, Logistic Regression, Naive Bayes
 
 ### Stock Optimization Linear Programming 
-**[code](https://github.com/LACLanthony/Stocks_Linear_Programming)** <br>
+**[code](https://github.com/LACLanthony/Stocks_Linear_Programming/blob/main/stocks.ipynb)** <br>
 **Description:** In the code above Simulation and Optimization methods are used to find the optimal solution oh how to distribute funds in stocks. The constraints are given and taken into consideration when finding the optimal solution. <br>
 **Skills:** Python, PuLP, Linear Programming, LaTeX
 
