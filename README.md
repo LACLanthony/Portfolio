@@ -39,6 +39,6 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 **Skills:** Python, PuLP, Linear Programming, LaTeX
 
 ### Diamond Analytics 
-**[code]()** <br>
+**[code](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
 **Description:** In the code above the diamonds dataset is cleaned and analyzed for any insights. The data consists of 50,000 diamonds that are categorized by the variables 'carat', 'cut', 'color', 'clarity' 'price'.  <br>
 **Skills:** Python, Matplotlib, Pandas, Plotly, Data Analytics, Data Cleaning
