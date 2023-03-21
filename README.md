@@ -36,3 +36,8 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 **[code](https://github.com/LACLanthony/Stocks_Linear_Programming)** <br>
 **Description:** In the code above Simulation and Optimization methods are used to find the optimal solution oh how to distribute funds in stocks. The constraints are given and taken into consideration when finding the optimal solution. <br>
 **Skills:** Python, PuLP, Linear Programming, LaTeX
+
+### Diamond Analytics 
+**[code]()** <br>
+**Description:** In the code above the diamonds dataset is cleaned and analyzed for any insights. The data consists of 50,000 diamonds that are categorized by the variables 'carat', 'cut', 'color', 'clarity' 'price'.  <br>
+**Skills:** Python, Matplotlib, Pandas, Plotly, Data Analytics, Data Cleaning
