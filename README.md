@@ -18,7 +18,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
      + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/blob/main/README.md#hotel-webscrape)
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
      + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
-     + [Diamond Analytics]()
+     + [Diamond Analytics](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)
 
 ## Portfolio Projects
 <br>
