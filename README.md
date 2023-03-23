@@ -27,7 +27,7 @@ Before that I received a Bachelor of Science (B.S.) from The University of Texas
 ### Hotel Webscrape
 **[code](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** <br>
 **Description:** In the preceding code a list of hotels, their addresses and phone numbers were scraped from the yellow pages website. The data was then cleaned and saved into a csv file.<br>
-**Skills:** web scraping, ETL, Beautiful Soup, Requests 
+**Skills:** Web Scraping, ETL, Beautiful Soup, Requests 
 
 ### Diamond Analytics 
 **[code](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
