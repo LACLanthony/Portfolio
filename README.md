@@ -29,8 +29,8 @@ In addition to my academic achievements, I have created a portfolio that showcas
 
 ### Hotel Webscrape
 **[code](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** <br>
-**Description:** In the preceding code a list of hotels, their addresses and phone numbers were scraped from the yellow pages website. The data was then cleaned and saved into a csv file.<br>
-**Skills:** Web Scraping, ETL, Beautiful Soup, Requests 
+**Description:** In the preceding code a list of hotels, their addresses and phone numbers were scraped from the yellow pages website. The data was then cleaned and saved into a csv file. An API was used to find the latitude and longitude of each hotel according to their addresses, the latitude and longitude were then added to the data frame. Finally Folium was used to map the hotels with markers on a map, popups of the hotel names were added to the markers.<br>
+**Skills:** Web Scraping, ETL, Beautiful Soup, Requests, API, Folum maps 
 
 ### Diamond Analytics 
 **[code](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
