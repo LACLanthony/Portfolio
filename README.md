@@ -20,7 +20,7 @@ In addition to my academic achievements, I have created a portfolio that showcas
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
      + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/blob/main/README.md#hotel-webscrape)
      + [Diamond Analytics](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)
-     + [Crime + Hotel Analytics]()
+     + [Crime + Hotel Analytics](https://github.com/LACLanthony/Portfolio/blob/main/README.md#crime-data)
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
      + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
 
