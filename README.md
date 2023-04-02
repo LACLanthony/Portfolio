@@ -20,6 +20,7 @@ In addition to my academic achievements, I have created a portfolio that showcas
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
      + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/blob/main/README.md#hotel-webscrape)
      + [Diamond Analytics](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)
+     + [Crime + Hotel Analytics]()
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
      + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
 
@@ -36,6 +37,11 @@ In addition to my academic achievements, I have created a portfolio that showcas
 **[code](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
 **Description:** In the code above the diamonds dataset is cleaned and analyzed for any insights. The data consists of 50,000 diamonds that are categorized by the variables 'carat', 'cut', 'color', 'clarity' 'price'.  <br>
 **Skills:** Python, Matplotlib, Pandas, Seaborn, Data Analytics, Data Cleaning
+
+### Crime Data
+**[code]()** <br>
+**Description** In the code listed above I have taken a crime database for 2023 in Austin Tx obtained form Austin gov API. This data has been merged with the hotels dataset and interesting insights were gained such as the hotels closest to crimes. This information is useful to individuals who wish to reserve a room in Austin but are unaware of the crime in the area. <br>
+**Skills** Python, Pandas, Numpy, Data Analytics, Feature Engineering, Data Cleaning, Visualization, Maps/Folium
 
 ### Mushroom Machine Learning
 **[code](https://github.com/LACLanthony/mushroom_machine_learning/blob/main/mushrooms.ipynb)** <br>
