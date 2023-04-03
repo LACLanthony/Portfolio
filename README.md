@@ -39,7 +39,7 @@ In addition to my academic achievements, I have created a portfolio that showcas
 **Skills:** Python, Matplotlib, Pandas, Seaborn, Data Analytics, Data Cleaning
 
 ### Crime Data
-**[code](https://github.com/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
+**[code](https://nbviewer.org/github/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
 **Description** In the code listed above I have taken a crime database for 2023 in Austin Tx obtained form Austin gov API. This data has been merged with the hotels dataset and interesting insights were gained such as the hotels closest to crimes. This information is useful to individuals who wish to reserve a room in Austin but are unaware of the crime in the area. <br>
 **Skills** Python, Pandas, Numpy, Data Analytics, Feature Engineering, Data Cleaning, Visualization, Maps/Folium
 
