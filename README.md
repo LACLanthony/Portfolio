@@ -18,9 +18,9 @@ In addition to my academic and professional achievements, I’ve developed a por
 
 - [About](https://github.com/LACLanthony/Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/LACLanthony/Portfolio/edit/main/README.md#portfolio-projects)
+     + [Crime + Hotel Analytics](https://github.com/LACLanthony/Portfolio/blob/main/README.md#crime-data)
      + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/blob/main/README.md#hotel-webscrape)
      + [Diamond Analytics](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)
-     + [Crime + Hotel Analytics](https://github.com/LACLanthony/Portfolio/blob/main/README.md#crime-data)
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
      + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
 
