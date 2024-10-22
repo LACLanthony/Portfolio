@@ -4,11 +4,11 @@
 ## About
 <br>
 
-Hello, I am Luis an aspiring Data Professional. I am currently finishing the last semester of my Master of Science (M.S.) in Data Science from Texas Tech University - Rawls College of Business. Before that I received a Bachelor of Science (B.S.) from The University of Texas - San Antonio in Mathematics with a concentration of Mathematics. As a graduate student at Texas Tech University, my studies in data science, including machine learning, statistics, mathematics, and data analytics, have prepared me for a challenging career in the field. 
+I am a Data Professional with hands-on experience in building data pipelines, automating ETL processes, and performing Record Linkage as a Program Data Services Specialist for Bexar County. In this role, I’ve consolidated data from various sources, developed a central database for my organization, and ensured seamless data integration for improved decision-making. My expertise in Python, R, and data visualization tools such as Tableau enables me to handle complex data challenges and transform raw data into actionable insights.
 
-During my undergraduate studies in mathematics, I developed a strong foundation in statistical modeling, linear algebra, and calculus. These skills, combined with my pursuit of a graduate degree in data science, have allowed me to excel in various projects and coursework that focus on data analysis and machine learning techniques. Throughout my academic career, I have become proficient in programming languages such as Python and R, as well as data visualization tools like Tableau.
+I hold a Master of Science (M.S.) in Data Science from Texas Tech University - Rawls College of Business, where I specialized in machine learning, statistics, and data analytics. This academic training, combined with my practical experience, equips me to deliver solutions that address real-world problems. I also hold a Bachelor of Science (B.S.) in Mathematics from The University of Texas - San Antonio, with a concentration in Mathematics, which provided me with a strong foundation in statistical modeling, linear algebra, and calculus.
 
-In addition to my academic achievements, I have created a portfolio that showcases my personal work in data science and machine learning. This portfolio, I hope will demonstrate some of my abilities in applying theoretical knowledge to real-world problems.
+In addition to my academic and professional achievements, I’ve developed a portfolio showcasing my work in data science, machine learning, and data engineering. This portfolio highlights my ability to apply theoretical knowledge to practical applications, ranging from predictive modeling to data visualization and database management. I am passionate about leveraging data to drive informed decisions and am continuously expanding my skills to keep up with the evolving field of data science.
 <br>
 
 
