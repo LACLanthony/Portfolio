@@ -24,10 +24,11 @@ In addition to my academic and professional achievements, I’ve developed a por
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
      + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
 
-
+<hl>
 ## Portfolio Projects
 <br>
-
+     
+<hl>
 ### Crime Data
 **[code](https://nbviewer.org/github/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
 **Description** The goal of this project:
