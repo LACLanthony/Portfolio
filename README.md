@@ -35,7 +35,8 @@ In addition to my academic and professional achievements, I’ve developed a por
      <li> Show my ability to merge information from different projects together to gain insights. </li>
      <li> Show GIS ability with Python. </li>
 </ol>
-<p>In the code listed above I have taken a crime database for 2023 in Austin Tx obtained form Austin gov API. This data has been merged with the hotels dataset and interesting insights were gained such as the hotels closest to crimes. This information is useful to individuals who wish to reserve a room in Austin but are unaware of the crime in the area. </p><br>
+<p>In the code listed above I have taken a crime database for 2023 in Austin Tx obtained form Austin gov API. This data has been merged with the hotels dataset and interesting insights were gained such as the hotels closest to crimes. This information is useful to individuals who wish to reserve a room in Austin but are unaware of the crime in the area. </p>
+
 **Skills** Python, Pandas, Numpy, Data Analytics, Feature Engineering, Data Cleaning, Visualization, Maps/Folium
 
 
@@ -46,7 +47,8 @@ In addition to my academic and professional achievements, I’ve developed a por
      <li> Show my ability to clean and work the data into a useable dataset. </li>
      <li> Show GIS ability with Python. </li>
 </ol>
-<p>In the preceding code a list of hotels, their addresses and phone numbers were scraped from the yellow pages website. The data was then cleaned and saved into a csv file. An API was used to find the latitude and longitude of each hotel according to their addresses, the latitude and longitude were then added to the data frame. Finally Folium was used to map the hotels with markers on a map, popups of the hotel names were added to the markers.</p><br>
+<p>In the preceding code a list of hotels, their addresses and phone numbers were scraped from the yellow pages website. The data was then cleaned and saved into a csv file. An API was used to find the latitude and longitude of each hotel according to their addresses, the latitude and longitude were then added to the data frame. Finally Folium was used to map the hotels with markers on a map, popups of the hotel names were added to the markers.</p>
+
 **Skills:** Web Scraping, ETL, Beautiful Soup, Requests, API, Folum maps 
 
 ### Diamond Analytics 
