@@ -4,7 +4,7 @@
 ## About
 <br>
 
-I am a Data Professional with hands-on experience in building data pipelines, automating ETL processes, and performing Record Linkage as a Program Data Services Specialist for Bexar County. In this role, I’ve consolidated data from various sources, developed a central database for my organization, and ensured seamless data integration for improved decision-making. My expertise in Python, R, and data visualization tools such as Tableau enables me to handle complex data challenges and transform raw data into actionable insights.
+I am a Data Professional with hands-on experience in building data pipelines, automating ETL processes, and performing Record Linkage as a Program Data Services Specialist for local government. In this role, I’ve consolidated data from various sources, developed a central database for my organization, and ensured seamless data integration for improved decision-making. My expertise in Python, R, and data visualization tools such as Tableau enables me to handle complex data challenges and transform raw data into actionable insights.
 
 I hold a Master of Science (M.S.) in Data Science from Texas Tech University - Rawls College of Business, where I specialized in machine learning, statistics, and data analytics. This academic training, combined with my practical experience, equips me to deliver solutions that address real-world problems. I also hold a Bachelor of Science (B.S.) in Mathematics from The University of Texas - San Antonio, with a concentration in Mathematics, which provided me with a strong foundation in statistical modeling, linear algebra, and calculus.
 
