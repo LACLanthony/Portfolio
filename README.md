@@ -64,7 +64,8 @@ In addition to my academic and professional achievements, I’ve developed a por
 
 <hr>
 
-## Docker Projects <a href="https://github.com/LACLanthony/Images/blob/"> <img src= "main/docker.svg" alt="Docker_Image" width="400"></a>
+## Docker Projects <img src="https://raw.githubusercontent.com/LACLanthony/Images/352dcf2ad69a72905f12f507f165faa6816c7579/docker.svg" width="350"/>
+
 
 <br>
 
