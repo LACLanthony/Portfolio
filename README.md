@@ -62,7 +62,7 @@ In addition to my academic and professional achievements, I’ve developed a por
 **Description:** In the code above machine learning was used to categorize edible vs poisonous mushrooms. Naive Bayes was used first followed by logistic regression. Logistic Regression was found to be the better model. The insights gained from the logisitc regression model were used to find any new information.<br>
 **Skills:** Machine Learning, Sci-kit Learn, Pandas, Numpy, Matplotlib, Logistic Regression, Naive Bayes
 
-<hl>
+<hr>
 
 ## Docker Projects
 <br>
