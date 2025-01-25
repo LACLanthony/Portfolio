@@ -64,7 +64,7 @@ In addition to my academic and professional achievements, I’ve developed a por
 
 <hr>
 
-## Docker Projects
+## Docker Projects ![Docker Icon](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png)
 <br>
 
 ### Pipeline Orchestration
