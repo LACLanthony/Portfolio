@@ -22,7 +22,8 @@ In addition to my academic and professional achievements, I’ve developed a por
      + [Hotel Webscrape](https://github.com/LACLanthony/Portfolio/blob/main/README.md#hotel-webscrape)
      + [Diamond Analytics](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)
      + [Mushroom Machine Learning](https://github.com/LACLanthony/Portfolio/blob/main/README.md#mushroom-machine-learning)
-     + [Stock Optimization Linear Programming](https://github.com/LACLanthony/Portfolio#stock-optimization-linear-programming)
+  - [To Come]
+     + [Docker Projects]
 
 ## Portfolio Projects
 <br>
