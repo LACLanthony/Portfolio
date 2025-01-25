@@ -29,7 +29,7 @@ In addition to my academic and professional achievements, I’ve developed a por
 <br>
      
 ### Crime Data
-**[code](https://nbviewer.org/github/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
+**[Notebook](https://nbviewer.org/github/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
 **Description** The goal of this project:
 <ol>
      <li> Show my ability to extract data in different forms (API, Web Scrape (in "Hotel Webscrape")).</li>
@@ -42,7 +42,7 @@ In addition to my academic and professional achievements, I’ve developed a por
 
 
 ### Hotel Webscrape
-**[code](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** <br>
+**[Notebook](https://github.com/LACLanthony/hotel_webscrape/blob/main/hotel.ipynb)** <br>
 **Description:** <ol>
      <li> Show my ability to webscrape to gather data (Something besides Kaggle pre-made datasets).</li>
      <li> Show my ability to clean and work the data into a useable dataset. </li>
@@ -53,14 +53,29 @@ In addition to my academic and professional achievements, I’ve developed a por
 **Skills:** Web Scraping, ETL, Beautiful Soup, Requests, API, Folum maps 
 
 ### Diamond Analytics 
-**[code](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
+**[Notebook](https://github.com/LACLanthony/diamonds/blob/main/diamonds.ipynb)** <br>
 **Description:** In the code above the diamonds dataset is cleaned and analyzed for any insights. The data consists of 50,000 diamonds that are categorized by the variables 'carat', 'cut', 'color', 'clarity' 'price'.  <br>
 **Skills:** Python, Matplotlib, Pandas, Seaborn, Data Analytics, Data Cleaning
 
 ### Mushroom Machine Learning
-**[code](https://github.com/LACLanthony/mushroom_machine_learning/blob/main/mushrooms.ipynb)** <br>
+**[Notebook](https://github.com/LACLanthony/mushroom_machine_learning/blob/main/mushrooms.ipynb)** <br>
 **Description:** In the code above machine learning was used to categorize edible vs poisonous mushrooms. Naive Bayes was used first followed by logistic regression. Logistic Regression was found to be the better model. The insights gained from the logisitc regression model were used to find any new information.<br>
 **Skills:** Machine Learning, Sci-kit Learn, Pandas, Numpy, Matplotlib, Logistic Regression, Naive Bayes
+
+<hl>
+
+## Docker Projects
+<br>
+
+### Pipeline Orchestration
+**Coming Soon**<br>
+**Description: Coming Soon**<br>
+**Skills: Coming Soon**<br>
+
+
+
+
+
 
 
 
