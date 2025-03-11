@@ -28,7 +28,7 @@ In addition to my academic and professional achievements, I’ve developed a por
 ## Portfolio Projects
 <br>
      
-### Crime Data
+### Crime Data <img src="https://github.com/LACLanthony/Images/blob/main/Screenshot 2025-03-11 090145.png" width="25"/>
 **[Notebook](https://nbviewer.org/github/LACLanthony/crimes_hotel/blob/main/hotels_crimes_maps.ipynb)** <br>
 **Description** The goal of this project:
 <ol>
